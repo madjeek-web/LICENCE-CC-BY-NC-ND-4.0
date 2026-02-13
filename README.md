@@ -286,3 +286,7 @@ La 4.0 protège aussi les **droits sui generis sur les bases de données** (sect
 ---
 
 **🎯 En conclusion : le "4.0" est votre meilleur allié juridique. Ne vous en privez pas !**
+
+##
+
+This work is based on and inspired by this source : https://github.com/Gibberspaces3/GitHub-Templates/blob/master/License-Templates/CC-BY-NC-ND-4.0/LICENSE-CC-BY-NC-ND-4.0.md
