@@ -1,3 +1,5 @@
+<img src="https://github.com/madjeek-web/madjeek-web/raw/main/..." alt="Fabien Conéjéro" width="1024" height="507">
+
 # LICENCE-CC-BY-NC-ND-4.0
 Contrat Type  / Modèle / LICENCE CC BY-NC-ND 4.0 - licence Creative Commons (CC) - COMMENT VENDRE L’USAGE COMMERCIAL ?
 
