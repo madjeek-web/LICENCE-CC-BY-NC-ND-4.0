@@ -1,4 +1,4 @@
-<img src="https://github.com/madjeek-web/madjeek-web/raw/main/CC_BY-NC-ND.svg.png" alt="CC_BY-NC-ND" width="85%" height="85%">
+<img src="https://github.com/madjeek-web/LICENCE-CC-BY-NC-ND-4.0/raw/main/CC_BY-NC-ND.svg.png" alt="CC_BY-NC-ND" width="85%" height="85%">
 
 # LICENCE-CC-BY-NC-ND-4.0
 Contrat Type  / Modèle / LICENCE CC BY-NC-ND 4.0 - licence Creative Commons (CC) - COMMENT VENDRE L’USAGE COMMERCIAL ?
