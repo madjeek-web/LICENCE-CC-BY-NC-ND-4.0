@@ -294,3 +294,182 @@ La 4.0 protège aussi les **droits sui generis sur les bases de données** (sect
 ##
 
 This work is based on and inspired by this source : https://github.com/Gibberspaces3/GitHub-Templates/blob/master/License-Templates/CC-BY-NC-ND-4.0/LICENSE-CC-BY-NC-ND-4.0.md
+
+
+
+---
+
+### Dialogue — SoundCloud and Copyright 
+
+---
+
+**Question:** On SoundCloud, if I share a DJ's music publicly, am I allowed to? Or music from any artist in general?
+
+**Answer:**
+
+The short answer is no — you almost never have the right to share a DJ's or an artist's music on SoundCloud without explicit permission, even if you purchased it or if the use is non-commercial.
+
+Here is a detailed explanation to help you understand why and what the exceptions are.
+
+**Why you generally cannot share this music**
+
+Sharing someone else's music, whether an original track or a full DJ set, is considered use of a work protected by copyright. To do so legally, you must obtain permission.
+
+Key points to remember:
+
+Buying a track does not give you the right to publish it: purchasing a title on a platform or downloading it does not grant you the rights to share it on SoundCloud, whether in full or in part.
+
+DJ sets are covered: the rule applies to any content created by someone else, including DJ sets, remixes, and mashups.
+
+Setting a track to private is not enough: even if you upload a protected track as a private download on your profile, this is not permitted because it is still possible to share that private link with other listeners.
+
+Crediting the artist is not enough: giving credit to the original artist or mentioning that the use is non-profit is not a legal protection and does not authorise you to share their work.
+
+If you do not comply with these rules, your content can be removed and your account can be permanently closed if reported.
+
+**Are there exceptions or alternatives?**
+
+Yes, there are a few specific cases where you can share this type of content within the rules.
+
+| Case | Conditions | Explanation / Example |
+|---|---|---|
+| You obtain explicit permission | You must have written, documented permission from the rights holder. | The permission must often come from the label that holds the rights to the recording, not just from the artist themselves. Keep this proof in case of a dispute. |
+| The work is in the public domain | The musical composition must no longer be protected by copyright. | This applies to very old classical music (e.g. Beethoven). Note: your own personal recording of such a work is permitted, but not a recording by a modern orchestra, which remains protected. |
+| Use of samples or free beats | This is a very risky area. | It is often difficult to verify whether the person who uploaded a "free" beat had the right to do so and to grant you that right. SoundCloud recommends contacting the original creator for clear authorisation. |
+| An alternative platform: Mixcloud | If you are a DJ and want to share your mixes, this platform is specifically designed for that purpose. | Mixcloud operates under a different type of licence that allows mix sharing, unlike SoundCloud which is historically more suited to original content creators. |
+
+In short, to legally share a DJ's or an artist's music on SoundCloud, the only reliable solution is to obtain clear, documented authorisation from the rights holder. For DJs who want to share their mixes, turning to platforms like Mixcloud is a much safer and more sustainable alternative.
+
+---
+
+**Question:** Ok, and what if this music is already online and publicly available on the internet, there is no information about the licence, and I downloaded it to my PC?
+
+**Answer:**
+
+This new information unfortunately does not change the answer: you still do not have the right to share this music on SoundCloud.
+
+The fact that a track is freely and publicly accessible on the internet, and that you downloaded it to your computer, gives you no right to republish it elsewhere. This is a common misconception, but the rule is very strict.
+
+Here is why your situation remains problematic and what you risk.
+
+**1. Downloading transfers no rights**
+
+This is the fundamental principle to remember: downloading a file or buying a track does not give you the right to publish it.
+
+Listening vs. publishing: music available for public streaming is made available for private listening. The artist or label has not authorised its reproduction on other channels.
+
+The absence of information is a warning sign: you say there is no information about the licence. In the absence of an explicit licence (such as a Creative Commons licence that would authorise reuse), copyright applies by default in its most restrictive form. This means that any reuse is prohibited.
+
+**2. Your download does not go unnoticed**
+
+Even if the music is already online, SoundCloud does not treat your download as a harmless new copy. The platform uses automatic content recognition systems (often called Content ID or audio fingerprinting systems).
+
+Automatic detection: as soon as you upload the track, SoundCloud's system will analyse the file and compare it against a vast database of protected works.
+
+Immediate blocking: if the system recognises the track (which is very likely), your upload will be automatically blocked, made unplayable, or removed, whether your upload is public or private.
+
+**3. What you risk in practice**
+
+The consequences are the same as in the general case explained above:
+
+Your track will be removed. In the event of repeat infringements or multiple violations, your SoundCloud account can be permanently closed.
+
+**The only exception that might apply**
+
+For you to be within your rights, the music you downloaded would need to be placed under a specific licence that authorises reuse, such as Creative Commons licences. These licences are usually clearly indicated on the track's page (in the description or metadata). The absence of any information means there is no such licence.
+
+In short: the public accessibility of a work and its download onto your hard drive do not create a right of use. Under the law and for SoundCloud, you do not own this file and have no right to distribute it. Your upload risks being automatically detected and blocked.
+
+---
+
+**Question:** Where and how can I verify the licence of a music track online?
+
+**Answer:**
+
+To verify the licence of a music track on the web, you must first understand a fundamental principle: in the absence of a clearly stated specific licence, the track is automatically under "All rights reserved". You therefore cannot reuse it.
+
+However, if an artist has chosen to share their work under a Creative Commons (CC) licence, the information is generally visible. Here is how to find it and interpret it.
+
+**Where and how to check a track's licence**
+
+Here is a practical guide to locating licence information, whether on SoundCloud or on other platforms.
+
+**1. On SoundCloud**
+
+This is one of the simplest platforms for this kind of search, as it integrates filters and clearly displays licences.
+
+Method 1 — use the dedicated search filter: perform a normal search with keywords (for example, "ambient music"). Click on the "Tracks" tab to see the results. Use the available search filters. You should find an option to filter results and display only sounds available under a Creative Commons licence. This is the most effective way to find content you can legally use.
+
+Method 2 — check on a track's page: if you have found a specific track, look carefully at its page. Licence information is generally found below the audio player, in the metadata section or in the track description. If the artist has applied a Creative Commons licence, it will be clearly indicated with the CC logo and the licence type (for example, CC BY-NC-ND).
+
+**2. On other platforms and search engines**
+
+The principle is the same: look for filters and information on the content's page.
+
+| Platform / Tool | How to check / Filter licences |
+|---|---|
+| YouTube | Perform a search. Click on "Filters". Under "Features", select "Creative Commons". The licence is also indicated in the video description by clicking "More". |
+| Google Images | Perform an image search. Click on "Tools". In the "Usage rights" dropdown, select an option such as "Creative Commons". Note: this method is more suited to images than to music. |
+| Specialised platforms | Sites such as Jamendo, the Free Music Archive, ccMixter, or Dogmazic are specifically designed to host music under Creative Commons licences. The licence is displayed next to each track. |
+
+**How to interpret Creative Commons licences**
+
+Once you have found a licence, it is crucial to understand what it authorises you to do. Creative Commons licences are built as a combination of four main conditions.
+
+| Condition | Meaning |
+|---|---|
+| BY (Attribution) | Mandatory in all licences. You must credit the original author. |
+| NC (NonCommercial) | Commercial use of the work is prohibited. |
+| ND (NoDerivatives) | You may not modify, remix, or adapt the work. |
+| SA (ShareAlike) | If you modify the work, you must share it under the same licence. |
+
+| Licence | Use | Modification (Remix) | Commercial use | Main obligation |
+|---|---|---|---|---|
+| CC BY | Yes | Yes | Yes | Credit the author |
+| CC BY-SA | Yes | Yes | Yes | Credit the author + share under identical licence |
+| CC BY-ND | Yes | No | Yes | Credit the author |
+| CC BY-NC | Yes | Yes | No | Credit the author |
+| CC BY-NC-SA | Yes | Yes | No | Credit the author + share under identical licence |
+| CC BY-NC-ND | Yes | No | No | Credit the author |
+
+Important reminder: the absence of any licence mention means the work is under the default copyright regime, i.e. "All rights reserved". In that case, you cannot use it without explicit authorisation from the rights holder.
+
+In short, your search for usable music should focus on tracks that clearly display a Creative Commons licence. If the information is not visible, assume you do not have the right to use it.
+
+---
+
+### Do the same rules apply on other platforms?
+
+The answer is yes, broadly speaking. Copyright is a legal framework that applies regardless of the platform. It is not SoundCloud's invention: the rules stem from international conventions (notably the Berne Convention) and national legislation. Each platform then translates them into its own terms of service and technical tools.
+
+**YouTube**
+
+YouTube has the most developed detection system, known as Content ID. This system scans every uploaded video and compares it against a database provided by rights holders (labels, publishers, distributors). If a match is found, the rights holder can choose between three options: block the video, monetise it in their place, or simply collect viewing statistics. Sharing an artist's music without authorisation is therefore subject to the same restrictions as on SoundCloud, with detection that is often even faster and more systematic.
+
+YouTube also offers a Creative Commons search filter that works in the same way as on SoundCloud.
+
+**Instagram and TikTok**
+
+Both platforms have licence agreements negotiated directly with major labels and some independent distributors. This means you can use certain tracks in your videos within the framework defined by these agreements, but these agreements have geographic limits and specific conditions. A track available as background music on TikTok in one country may be blocked in another. Outside the catalogue covered by these agreements, the same general rules apply: you cannot use a track without authorisation.
+
+**Twitch**
+
+Twitch has seen large waves of VOD (replay) removals due to protected music played during streams. The platform uses a detection system on recorded videos, even though live streams are sometimes less immediately affected. The rules are the same, but enforcement differs depending on whether the content is live or stored as a replay.
+
+**Mixcloud**
+
+Mixcloud is a notable exception. The platform has negotiated collective licences with rights management organisations (such as SACEM in France, or PRS in the UK). These licences allow DJs to share their mixes without needing individual authorisation for each track. This is why Mixcloud is the recommended platform for sharing DJ mixes. In return, Mixcloud pays royalties to rights holders from the platform's revenue.
+
+**What changes from one platform to another**
+
+The legal foundation does not change, but the following elements vary:
+
+| Aspect | What varies by platform |
+|---|---|
+| Detection tool | Each platform has its own system (Content ID on YouTube, proprietary systems elsewhere). Detection efficiency and speed differ. |
+| Pre-existing licence agreements | Some platforms (TikTok, Instagram, Mixcloud) have negotiated collective licences that cover part of the music catalogue. |
+| Consequences for infringement | Content removal, audio muting, geographic blocking, redirected monetisation, or account suspension depending on the platform. |
+| Legally available catalogue | The catalogue covered by collective licences varies greatly from one platform to another and from one country to another. |
+
+The baseline rule remains the same everywhere: if you have no written proof of authorisation, or if the track is not explicitly under a Creative Commons or equivalent licence, sharing another artist's music puts your content at risk of removal and your account at risk of sanctions.
+
