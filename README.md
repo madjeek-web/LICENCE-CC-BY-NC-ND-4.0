@@ -473,3 +473,144 @@ The legal foundation does not change, but the following elements vary:
 
 The baseline rule remains the same everywhere: if you have no written proof of authorisation, or if the track is not explicitly under a Creative Commons or equivalent licence, sharing another artist's music puts your content at risk of removal and your account at risk of sanctions.
 
+##
+##
+---
+
+## Copyright beyond music — what applies to other types of creative works ?
+
+The rules discussed above for music are not specific to that domain. Copyright applies to any work that results from a creative act, provided it carries a minimum of originality. The platform where it is published, the format it takes, or the tool used to produce it has no bearing on that protection. What matters is the act of creation itself.
+
+Below is an overview of the main categories concerned, what protection covers, and the specific points worth knowing for each.
+
+---
+
+### Photography
+
+A photograph is protected as soon as it is taken, with no registration required. This applies to professional studio work, editorial images, street photography, and also to personal photos shared on social media. The moment a photographer presses the shutter, the resulting image is their property.
+
+Using a photo found on Google Images, a news website, or any public page without authorisation is an infringement, regardless of whether you credit the photographer. The same applies to screenshots of photos. Cropping or applying a filter to an image does not make it a new original work and does not cancel the original copyright.
+
+Stock photo platforms such as Getty Images, Shutterstock, or Adobe Stock operate on licence systems. Purchasing a licence grants a defined right of use — it does not transfer ownership. The permitted uses (editorial only, commercial, print runs, number of users) are specified in each licence agreement.
+
+Free alternatives exist through platforms like Unsplash, Pexels, or Pixabay, where photographers voluntarily release their work under permissive licences. Even then, the terms vary and should be read carefully before use.
+
+---
+
+### Illustration and drawing
+
+Hand-drawn illustrations, digital drawings, character design, concept art, and any similar work are protected under the same framework as photography. The medium — pencil, ink, tablet, or software — changes nothing about the protection that applies.
+
+Fan art occupies a legally ambiguous position. Drawing a character from an existing franchise is, strictly speaking, the reproduction of a protected work (the character design belongs to its creator or their rights holder). Whether this is tolerated depends entirely on the policy of the rights holder. Tolerance is common in practice, but it is not a legal right.
+
+Generating an image using AI tools based on an existing artist's style raises ongoing legal debates that courts in several countries are currently handling. The legal landscape on this specific point is unsettled at the time of writing.
+
+---
+
+### Painting and fine art
+
+Traditional paintings, watercolours, and other physical artworks are protected just like digital works. A photograph of a painting you did not create is not yours to use, even if the photograph itself is yours. The image of the artwork inherits the copyright of the artwork.
+
+There is an important distinction : paintings and artworks old enough to be in the public domain (generally when the artist has been dead for 70 years or more, depending on the country) can be reproduced freely. However, the photograph of such a painting may or may not be protected depending on jurisdiction. In many European countries, a faithful photographic reproduction of a public domain painting carries no new copyright. In other jurisdictions, it may. This remains an area where local law matters.
+
+---
+
+### Graphic design
+
+Logos, posters, typographic compositions, packaging design, infographics, and editorial layouts are all protected works. A designer who creates a logo owns the copyright to it unless they have explicitly transferred those rights in a contract — which is standard practice in client work but must be clearly stated.
+
+Using someone else's logo or design work without permission, even for non-commercial purposes, is an infringement. This includes modifying the design slightly and presenting it as your own.
+
+Design assets such as icon sets, UI kits, or template files distributed on platforms like Freepik, Creative Market, or Dribbble come with their own licences. Free downloads frequently restrict commercial use. Paid downloads extend those rights within defined limits. Reading the licence before use is necessary.
+
+---
+
+### Typefaces and fonts
+
+A font file is a piece of software and is therefore protected under software copyright. The visual design of the letterforms may additionally be protected in some jurisdictions. Using a font requires a valid licence that covers the intended use — desktop use, web embedding via CSS, application embedding, and broadcast use are typically sold as separate licences.
+
+Purchasing a font for personal desktop use does not automatically permit web embedding. Distributing a font file to a client or a colleague without checking the licence terms is a common infringement.
+
+Free fonts available on Google Fonts or Font Squirrel are released under open licences (often SIL Open Font Licence) that generally permit broad use including commercial projects, but the licence file should always be verified.
+
+---
+
+### Web design and UI design
+
+A website's visual design — its layout, colour scheme, spacing decisions, custom illustrations, and overall composition — is a creative work protected by copyright. Copying the design of an existing website, even if you rewrite the underlying code, constitutes infringement of the designer's work.
+
+UI component libraries and design systems released publicly (such as Material Design or Carbon) come with specific licences that define what can be reused, modified, and in what context. Open source does not mean public domain and does not mean unrestricted commercial use in all cases.
+
+Screenshots of interfaces taken from other products should not be used in your own work without permission, particularly in commercial contexts.
+
+---
+
+### Source code
+
+Code is treated as a literary work under copyright law. A function, a class, a library, or a full application written by someone else is their protected work from the moment it is written.
+
+Open source software does not mean free of conditions. Each open source licence imposes requirements :
+
+| Licence type | Key conditions |
+|---|---|
+| MIT | Attribution required. Very permissive otherwise, including commercial use. |
+| Apache 2.0 | Attribution required. Patent rights included. Commercial use permitted. |
+| GPL (v2 and v3) | Any derivative work must be released under the same licence (copyleft). Commercial use permitted under that condition. |
+| LGPL | Similar to GPL but allows linking from proprietary software without triggering copyleft. |
+| AGPL | GPL terms extended to software used over a network (SaaS). Strong copyleft. |
+| Creative Commons (for code) | Technically usable but not recommended for software by the CC organisation itself. |
+| Proprietary | No reuse, modification, or redistribution without explicit permission. |
+
+Copying code from Stack Overflow, GitHub repositories, or tutorials without checking the applicable licence is a common mistake. Stack Overflow content is licensed under Creative Commons with attribution, which has implications for commercial projects. GitHub repositories with no licence file are not in the public domain — the absence of a licence means all rights are reserved by default.
+
+---
+
+### Video and film
+
+A video — whether a short clip, a documentary, a YouTube video, or a feature film — is protected. This includes the visual content, the dialogue, the soundtrack, and the editing choices as a whole.
+
+Using clips from films, series, or YouTube videos without authorisation in your own productions is an infringement, even for short extracts. YouTube's Content ID system handles detection automatically, as described in the previous section.
+
+The concept of fair use (in the United States) or fair dealing (in the UK and Commonwealth countries) allows limited use of copyrighted material for purposes such as commentary, criticism, parody, or education — but these are legal defences, not automatic rights, and their applicability depends on specific circumstances assessed case by case.
+
+---
+
+### Architecture
+
+Architectural works — buildings, structures, and the drawings and plans that define them — are protected. However, most jurisdictions include a freedom of panorama exception that allows photographs of buildings visible from public spaces to be taken and published without authorisation. The scope of this exception varies significantly by country, including within the European Union.
+
+---
+
+### Video games and interactive works
+
+A video game is a composite work. It contains source code, visual assets, audio, narrative content, and user interface design, each of which carries its own copyright. Streaming or recording gameplay raises specific questions that each platform handles differently through direct agreements with publishers. Screenshots and clips used for review or commentary may fall under fair use or fair dealing depending on jurisdiction.
+
+Game assets — sprites, sound effects, 3D models — distributed under open licences on platforms like itch.io or OpenGameArt carry their own terms that must be read before use.
+
+---
+
+### 3D models and digital assets
+
+A 3D model is a protected work. Models downloaded from platforms like TurboSquid, Sketchfab, or CGTrader are governed by licences that define allowed uses (personal, commercial, editorial, resale). Models marked as free often restrict commercial use. Models integrated into a published product (a game, an app, a printed item) must be covered by a commercial licence.
+
+---
+
+### Summary table
+
+| Category | Protected from | Common exception or open alternative |
+|---|---|---|
+| Photography | The moment the shutter is pressed | Unsplash, Pexels, Pixabay (check terms) |
+| Illustration and drawing | The moment the work is created | OpenClipart, public domain archives |
+| Painting and fine art | The moment the work is created | Works by artists dead 70+ years (public domain, jurisdiction-dependent) |
+| Graphic design | The moment the work is created | Freepik free tier (with attribution, non-commercial) |
+| Typefaces and fonts | The font file as software | Google Fonts (SIL OFL), Font Squirrel |
+| Web and UI design | The moment the design is created | Open design systems with stated licences |
+| Source code | The moment the code is written | MIT, Apache, GPL and other open source licences |
+| Video and film | The moment of recording or editing | Creative Commons video on Vimeo or YouTube |
+| Architecture | The drawings and the building | Freedom of panorama (scope varies by country) |
+| Video games | All components individually | Open game assets on OpenGameArt, itch.io |
+| 3D models | The moment the model is created | Free tiers on Sketchfab, TurboSquid (check terms) |
+
+---
+
+The common thread across all these categories is the same as for music : in the absence of a clearly stated licence that permits reuse, the work is protected and you need authorisation to use it. The platform where you found it, the ease with which it was accessible, and the fact that it was publicly visible change nothing about that legal reality.
