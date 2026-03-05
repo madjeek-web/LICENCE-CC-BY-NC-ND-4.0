@@ -614,3 +614,13 @@ A 3D model is a protected work. Models downloaded from platforms like TurboSquid
 ---
 
 The common thread across all these categories is the same as for music : in the absence of a clearly stated licence that permits reuse, the work is protected and you need authorisation to use it. The platform where you found it, the ease with which it was accessible, and the fact that it was publicly visible change nothing about that legal reality.
+
+##
+
+## ༄☕︎︎︎ Buy Me A Coffee :
+
+<a href="https://donate.stripe.com/3cI6oH1nUgsy8WZdVHgEg00" target="_blank" rel="noopener noreferrer"><img src="https://github.com/madjeek-web/eventflow/raw/main/Buy_Me _A_Coffee.jpg" alt="Buy Me A Coffee image" width="25%" height="25%"></a>
+
+༄☕︎︎︎ [stripe.com](https://donate.stripe.com/3cI6oH1nUgsy8WZdVHgEg00)
+
+. Thank you for your support
